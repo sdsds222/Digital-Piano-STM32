@@ -9,6 +9,7 @@
 ![输入图片说明](Snipaste_2023-12-14_02-31-37.png)
 ![输入图片说明](Snipaste_2023-12-14_20-32-46.png)
 
+bilibili：【《点 灯 大 师》8-bit蜂鸣器电子琴 stm32-哔哩哔哩】 https://b23.tv/SBdDndZ
 #### 参与贡献
 
 1.  Fork 本仓库
