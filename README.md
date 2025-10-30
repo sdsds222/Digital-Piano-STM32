@@ -6,7 +6,7 @@
 支持演奏模式、录制模式和播放录制模式。
 
 
-bilibili：【《点 灯 大 师》8-bit蜂鸣器电子琴 stm32-哔哩哔哩】 [https://b23.tv/EXwwtJz](https://www.bilibili.com/video/BV1qa4y19792/?vd_source=d1681b7d6b38237df98a7c9aa196d8ce#reply664650158)
+bilibili：【《点 灯 大 师》8-bit蜂鸣器电子琴 stm32-哔哩哔哩】https://www.bilibili.com/video/BV1qa4y19792
 
 ![输入图片说明](Snipaste_2023-12-14_02-31-37.png)
 ![输入图片说明](Snipaste_2023-12-14_20-32-46.png)
